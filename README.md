@@ -1,1 +1,3 @@
-# Advent_of_Code_2017
+Advent of Code 2017
+
+http://adventofcode.com/2017
